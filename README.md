@@ -1,8 +1,9 @@
-# Mi Diario Alimenticio
-El Diario de Alimentos es una aplicación que permite a los usuarios llevar un registro detallado de su consumo diario de alimentos, proporcionando retroalimentación y análisis sobre sus hábitos alimenticios.
+# EatLog
+## Descripcion
+EatLog es una aplicación que permite a los usuarios llevar un registro detallado de su consumo diario de alimentos, proporcionando retroalimentación y análisis sobre sus hábitos alimenticios.
 
 ## Utilidad
-Utilizar un diario de alimentos puede ser una herramienta efectiva para mejorar la conciencia sobre los hábitos alimenticios y fomentar cambios positivos en la dieta. Esta aplicación ofrece una forma conveniente y fácil de realizar un seguimiento del consumo de alimentos y recibir orientación o advertencias  sobre hábitos alimenticios.
+Utilizar un registro de alimentos puede ser una herramienta efectiva para mejorar la conciencia sobre los hábitos alimenticios y fomentar cambios positivos en la dieta. Esta aplicación ofrece una forma conveniente y fácil de realizar un seguimiento del consumo de alimentos y recibir orientación o advertencias  sobre hábitos alimenticios.
 
 ## Forma de utilizar las librerias
 NumPy: Para realizar cálculos relacionados con la ingesta nutricional diaria de los usuarios, como calcular el total de calorías consumidas y la distribución de macronutrientes.
