@@ -14,7 +14,7 @@ Matplotlib: Para visualizar gráficamente el consumo de alimentos a lo largo del
 
 Scipy: Para realizar análisis estadísticos sobre los datos de consumo de alimentos, como identificar alimentos que contribuyen significativamente a la ingesta de ciertos nutrientes o evaluar la variedad y equilibrio de la dieta.
 
-Geopandas: Para mostrar la disponibilidad de alimentos frescos y saludables en diferentes ubicaciones geográficas, ayudando a los usuarios a tomar decisiones informadas sobre dónde comprar alimentos nutritivos.
+Geopandas: Para investigar, graficar y compararar el análisis de datos de encuestas dietéticas y/o tasa general de índice de masa corporal georreferenciadas para identificar tendencias en la dieta en diferentes regiones, principalmente entre países.
 
 ## Contacto
 Pueden comunicarse conmigo para resolver preguntas, dar comentarios, opiniones o sugerencias.
