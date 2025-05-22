@@ -2,6 +2,7 @@
 ## Descripcion
 EatLog es una aplicación que permite a los usuarios llevar un registro detallado de su consumo diario de alimentos, proporcionando retroalimentación y análisis sobre sus hábitos alimenticios.
 
+<img src="https://img.freepik.com/vector-premium/retrato-completo-joven-estudiante-feliz-listo-estudiar-trabajar_723224-5220.jpg?semt=ais_hybrid&w=740" alt="estudiante">
 ## Utilidad
 Utilizar un registro de alimentos puede ser una herramienta efectiva para mejorar la conciencia sobre los hábitos alimenticios y fomentar cambios positivos en la dieta. Esta aplicación ofrece una forma conveniente y fácil de realizar un seguimiento del consumo de alimentos y recibir orientación o advertencias  sobre hábitos alimenticios.
 
